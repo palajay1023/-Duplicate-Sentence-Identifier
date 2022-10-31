@@ -1,1 +1,1 @@
-# -Duplicate-Sentence-Identifier
+# Duplicate-Sentence-Identifier
